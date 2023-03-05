@@ -1,11 +1,12 @@
 # 🙋🏻‍♂️ Fran Manzano
 ##  📝 Perfil
-Soy 🧑‍💻 Técnico nivel superior en informática, apasionado por la programación y el desarrollo web. Mi objetivo es convertirme en un  full stack developer. Actualmente realizo un bootcamp Full-Stack JavaScript por Gullermo Rodas en Undefined Academy.
+Soy 🧑‍💻 Técnico superior en informática, apasionado por la programación y el desarrollo web. Mi objetivo es convertirme en un  full stack developer. Actualmente realizo un bootcamp Full-Stack JavaScript por Gullermo Rodas en Undefined Academy.
 
 ## 📞 Informacion de Contacto
 * ✉️ [Email](fran8454@hotmail.com)
 * 😎 [Twiter](https://twitter.com/franman26)
 * 💼 [Linkedln](https://www.linkedin.com/feed/)
+* 💻 [GitHub](https://github.com/fmanzano26)
 
 ## 🎓 Formación
 * Tecnico Superior de Aplicaciones Multiplataforma - _Universidad la Florida_.
